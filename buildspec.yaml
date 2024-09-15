@@ -1,0 +1,17 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+      python: 3.9
+    commands:
+      - pip3 install -r requirements.txt
+      - pip3 install gunicorn # Install the required dependencies for your Dash app
+  build:
+    commands:
+      - echo "Building the Dash app..."
+      - python3 app.py
+    ports:
+      - "80"
+artifacts:
+    files:
+      - '**/*'
