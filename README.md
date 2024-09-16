@@ -126,7 +126,7 @@ Image : ![Screenshot 2024-09-16 151929 15](https://github.com/user-attachments/a
 
 Enter the buildspec.yaml file name in the build specifications
 
-Image : ![alt text](<Screenshot 2024-04-21 175343.png>)
+Image : ![Screenshot 2024-09-16 152001 16](https://github.com/user-attachments/assets/6a7c948f-8759-4b14-bdd1-c48cb7eb385f)
 
 select the cloudwatch for logs and click on the continue to the codepipeline
 
