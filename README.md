@@ -79,7 +79,7 @@ Image : ![Screenshot 2024-09-16 140103 6](https://github.com/user-attachments/as
 
 The environment creation is started
 
-Image : ![alt text](<Screenshot 2024-04-21 174402.png>)
+Image :![Screenshot 2024-09-16 140205 7](https://github.com/user-attachments/assets/9c842517-0891-4685-a0cb-ff0c75536ed4)
 
 The Environment is successfully created
 
