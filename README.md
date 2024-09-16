@@ -34,7 +34,7 @@ Git commit -m " added the app.py , requirements.txt , .ebextensions and buildspe
 
 used "git push origin main" to push the changes to central repository
 
-codecommit image : ![alt text](<Screenshot 2024-04-21 182138-1.png>)
+codecommit image : ![1](https://github.com/user-attachments/assets/13535eba-0faf-47b3-b7f4-cd7556992b0d)
 
 # ELASTICBEANSTALK :
 
