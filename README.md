@@ -115,9 +115,9 @@ Click on the create project
 
 Select the build environment details
 
-Image : ![alt text](<Screenshot 2024-04-21 175303-2.png>)
- 
-Select the details regarding the operating system and the runtime
+Image :![Screenshot 2024-09-16 151910 14](https://github.com/user-attachments/assets/c204a511-4906-4b3d-b0e1-c2affc41b93f)
+
+ Select the details regarding the operating system and the runtime
 
 create the new-service role
 
