@@ -95,14 +95,13 @@ Give the pipeline name, select the pipeline-type and execution-mode
 
 Image : ![Screenshot 2024-09-16 140522 11](https://github.com/user-attachments/assets/bbe0ca46-a567-4ae9-a654-ee8cfed156ba)
 
-
 # SOURCE
 
 Click on Create a new-service-role
 
 than click on next option
 
-Image : ![alt text](<Screenshot 2024-04-21 174925.png>)
+Image : ![Screenshot 2024-09-16 141420 12](https://github.com/user-attachments/assets/844cb7c0-e406-40ae-a6aa-18a5de0c9d89)
 
 # CODEBUILD
 
