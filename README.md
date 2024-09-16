@@ -83,7 +83,7 @@ Image :![Screenshot 2024-09-16 140205 7](https://github.com/user-attachments/ass
 
 The Environment is successfully created
 
-![alt text](<Screenshot 2024-04-21 174510.png>)
+![Screenshot 2024-09-16 140353 8](https://github.com/user-attachments/assets/d9c5aec8-8402-413c-a842-a27756500f26)
 ![alt text](<Screenshot 2024-04-21 174526.png>)
 
 # CODEPIPELINE
