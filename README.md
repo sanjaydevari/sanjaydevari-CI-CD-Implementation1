@@ -151,7 +151,7 @@ Image : ![Screenshot 2024-09-16 152116 19](https://github.com/user-attachments/a
 
 The deploy stage is Successfully Executed
 
-Image : ![alt text](<Screenshot 2024-04-21 181627.png>)
+Image : ![Screenshot 2024-09-16 145653 20](https://github.com/user-attachments/assets/8385396f-a27f-42c8-aadb-ffeb1eb67437)
 
 The Environment is successfully updated in&by the elasticbeanstalk
 
