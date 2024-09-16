@@ -42,7 +42,7 @@ The elasticbeanstalk is works as a platform as a service
 
 Elastic Beanstalk is a service for deploying and scaling web applications and services. Upload your code and Elastic Beanstalk automatically handles the deployment—from capacity provisioning, load balancing, and auto scaling to application health monitoring.
 
-Elastic Beanstalk image : ![alt text](<Screenshot 2024-04-21 173619.png>)
+Elastic Beanstalk image : ![Screenshot 2024-09-10 161412 2](https://github.com/user-attachments/assets/e32fdc2e-1d0d-4a24-8ef9-4b02264f9b71)
 
 Click on the create application
 
