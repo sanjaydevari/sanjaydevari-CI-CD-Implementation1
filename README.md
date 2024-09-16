@@ -76,7 +76,6 @@ Than click on the submit button
 
 Image : ![Screenshot 2024-09-16 140103 6](https://github.com/user-attachments/assets/73827d49-a856-4c90-9176-d6e69c2ff9bb)
 
-
 The environment creation is started
 
 Image :![Screenshot 2024-09-16 140205 7](https://github.com/user-attachments/assets/9c842517-0891-4685-a0cb-ff0c75536ed4)
@@ -84,7 +83,7 @@ Image :![Screenshot 2024-09-16 140205 7](https://github.com/user-attachments/ass
 The Environment is successfully created
 
 ![Screenshot 2024-09-16 140353 8](https://github.com/user-attachments/assets/d9c5aec8-8402-413c-a842-a27756500f26)
-![alt text](<Screenshot 2024-04-21 174526.png>)
+![Screenshot 2024-09-16 140407 9](https://github.com/user-attachments/assets/59755a4f-df74-4962-af76-1bd22791d6c4)
 
 # CODEPIPELINE
 
