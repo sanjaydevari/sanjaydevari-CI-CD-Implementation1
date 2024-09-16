@@ -15,7 +15,7 @@ In the ever-evolving landscape of software development, the quest for efficiency
 
 repo name : sathishrepo3
 
-Clone Url : https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/sathishrepo3
+Clone Url : https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/CI-CD-Implementatin
 
 added the files:
 
