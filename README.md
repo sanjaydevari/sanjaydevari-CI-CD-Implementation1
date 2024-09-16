@@ -46,7 +46,8 @@ Elastic Beanstalk image : ![Screenshot 2024-09-10 161412 2](https://github.com/u
 
 Click on the create application
 
-Environment Creation : ![alt text](<Screenshot 2024-04-21 173715.png>)
+Environment Creation :![Screenshot 2024-09-16 135519 3](https://github.com/user-attachments/assets/5b43b0cc-dd59-41a9-8732-a0f26e77290c)
+
 
 Give the application name and configure the environment
 
