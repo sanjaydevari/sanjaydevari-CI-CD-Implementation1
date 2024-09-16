@@ -155,7 +155,7 @@ Image : ![Screenshot 2024-09-16 145653 20](https://github.com/user-attachments/a
 
 The Environment is successfully updated in&by the elasticbeanstalk
 
-Image : ![alt text](<Screenshot 2024-04-21 181520.png>)
+Image : ![Screenshot 2024-09-16 145653 20](https://github.com/user-attachments/assets/1b62e784-d86a-4c59-9e09-f08a67166fa3)
 
 The Application is Successfully Deployed in the Production Level and made Available for the users
 
