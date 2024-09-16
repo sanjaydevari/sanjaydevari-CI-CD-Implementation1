@@ -89,7 +89,7 @@ The Environment is successfully created
 
 Now go to the codepipeline and click on the Create Pipeline
 
-Image : ![alt text](<Screenshot 2024-04-21 174651.png>)
+Image : ![Screenshot 2024-09-16 140440 10](https://github.com/user-attachments/assets/2accb033-8d7b-4153-9aee-76c15763e5a2)
 
 Give the pipeline name, select the pipeline-type and execution-mode
 
