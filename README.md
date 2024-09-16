@@ -58,7 +58,7 @@ Select application code as sample application
 
 set the ec2 virtual machine as single instance(free-tier-eligible)
 
-Image : ![alt text](<Screenshot 2024-04-21 173914.png>)
+Image : ![Screenshot 2024-09-16 135800 4](https://github.com/user-attachments/assets/72e0456d-5f85-4094-b1f3-6901855b67c5)
 
 Configure the service access :
 
