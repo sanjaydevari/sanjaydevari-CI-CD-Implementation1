@@ -74,7 +74,8 @@ Image : ![Screenshot 2024-09-16 135900 5](https://github.com/user-attachments/as
 
 Than click on the submit button
 
-Image : ![alt text](<Screenshot 2024-04-21 174153.png>)
+Image : ![Screenshot 2024-09-16 140103 6](https://github.com/user-attachments/assets/73827d49-a856-4c90-9176-d6e69c2ff9bb)
+
 
 The environment creation is started
 
