@@ -121,7 +121,8 @@ Image :![Screenshot 2024-09-16 151910 14](https://github.com/user-attachments/as
 
 create the new-service role
 
-Image : ![alt text](<Screenshot 2024-04-21 175321.png>)
+Image : ![Screenshot 2024-09-16 151929 15](https://github.com/user-attachments/assets/b6e0cbfe-32b4-4f16-8edb-d7868387f23a)
+
 
 Enter the buildspec.yaml file name in the build specifications
 
