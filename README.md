@@ -147,7 +147,7 @@ The source stage is successfully succeeded
 
 The Build stage is successfully succeeded
 
-Image : ![alt text](<Screenshot 2024-04-21 181612.png>)
+Image : ![Screenshot 2024-09-16 152116 19](https://github.com/user-attachments/assets/62d752d8-79c5-47c9-b681-35621bdca725)
 
 The deploy stage is Successfully Executed
 
