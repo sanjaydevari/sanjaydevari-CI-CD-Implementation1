@@ -161,7 +161,8 @@ The Application is Successfully Deployed in the Production Level and made Availa
 
 Due to the Autoscaling and loadbalancing features of elasticbeanstalk the application works continuously and consistensly
 
-Image : ![alt text](<Screenshot 2024-04-21 181554.png>)
+![Screenshot 2024-09-16 152135 21](https://github.com/user-attachments/assets/128a6a2b-2daf-496c-aa0f-8fe5afae8395)
+
 
 
   # Architectural Blueprint:
