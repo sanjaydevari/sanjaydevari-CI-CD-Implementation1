@@ -48,12 +48,11 @@ Click on the create application
 
 Environment Creation :![Screenshot 2024-09-16 135519 3](https://github.com/user-attachments/assets/5b43b0cc-dd59-41a9-8732-a0f26e77290c)
 
-
 Give the application name and configure the environment
 
 Check the availability of domain because it should be unique
 
-Image : ![alt text](<Screenshot 2024-04-21 173818-1.png>)
+Image :![Screenshot 2024-09-16 135659 3](https://github.com/user-attachments/assets/31502c76-e11e-4a2c-bdeb-4aa75d9a6361)
 
 Select application code as sample application
 
