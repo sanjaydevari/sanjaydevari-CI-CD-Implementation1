@@ -123,7 +123,6 @@ create the new-service role
 
 Image : ![Screenshot 2024-09-16 151929 15](https://github.com/user-attachments/assets/b6e0cbfe-32b4-4f16-8edb-d7868387f23a)
 
-
 Enter the buildspec.yaml file name in the build specifications
 
 Image : ![Screenshot 2024-09-16 152001 16](https://github.com/user-attachments/assets/6a7c948f-8759-4b14-bdd1-c48cb7eb385f)
@@ -132,7 +131,7 @@ select the cloudwatch for logs and click on the continue to the codepipeline
 
 than click on next to go to deploy stage
 
-Image : ![alt text](<Screenshot 2024-04-21 175353.png>)
+Image : ![Screenshot 2024-09-16 152037 17](https://github.com/user-attachments/assets/d498df64-6eb6-43cd-8691-39d52f578fbf)
 
 # DEPLOY
 
