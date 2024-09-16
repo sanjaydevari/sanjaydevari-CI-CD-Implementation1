@@ -109,7 +109,7 @@ Give the provider name as codebuild
 
 Select the region
 
-Image : ![alt text](<Screenshot 2024-04-21 175118.png>)
+Image : ![Screenshot 2024-09-16 141614 13](https://github.com/user-attachments/assets/23ecc86f-1cdd-4740-82de-96a172bb4ff2)
 
 Click on the create project
 
