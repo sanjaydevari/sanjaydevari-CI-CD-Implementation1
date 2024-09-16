@@ -70,7 +70,7 @@ Create and Give the ec2-instance-profile for the elasticbeanstalk to access the 
 
 Next enter the option Skip to review because we don't need any other services for this project
 
-Image : ![alt text](<Screenshot 2024-04-21 174019.png>)
+Image : ![Screenshot 2024-09-16 135900 5](https://github.com/user-attachments/assets/1425f6e7-866a-4b3a-85fc-e4cd2a6fbe13)
 
 Than click on the submit button
 
