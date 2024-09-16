@@ -141,7 +141,7 @@ Select the application name and environment name you have created in the elastic
 
 The pipeline is created
 
-Image : ![alt text](<Screenshot 2024-04-21 175449.png>)
+Image : ![Screenshot 2024-09-16 152054 18](https://github.com/user-attachments/assets/6eee9efd-0368-4933-883c-74d824d37c6d)
 
 The source stage is successfully succeeded
 
