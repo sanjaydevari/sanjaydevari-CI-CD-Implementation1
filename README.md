@@ -93,7 +93,8 @@ Image : ![Screenshot 2024-09-16 140440 10](https://github.com/user-attachments/a
 
 Give the pipeline name, select the pipeline-type and execution-mode
 
-Image : ![alt text](<Screenshot 2024-04-21 174903.png>)
+Image : ![Screenshot 2024-09-16 140522 11](https://github.com/user-attachments/assets/bbe0ca46-a567-4ae9-a654-ee8cfed156ba)
+
 
 # SOURCE
 
